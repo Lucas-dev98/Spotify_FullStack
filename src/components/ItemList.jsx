@@ -12,6 +12,7 @@ const ItemList = (props) => {
               </a>
             </div>
     
+    
             <div className="item-list__container">
                 <SingleItem />
                 <SingleItem />
